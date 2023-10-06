@@ -1,0 +1,11 @@
+/*
+
+!/.gitignore
+!/go.mod
+!/go.sum
+!/*.go
+
+!/fetcher/
+!/ffmpeg/
+!/m3u8/
+!/utils/
