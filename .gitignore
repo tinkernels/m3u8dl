@@ -4,6 +4,8 @@
 !/go.mod
 !/go.sum
 !/*.go
+!/README.md
+!/LICENSE
 
 !/fetcher/
 !/ffmpeg/
